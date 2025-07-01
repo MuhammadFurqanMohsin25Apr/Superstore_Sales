@@ -36,7 +36,7 @@ Bar chart comparing sales across customer segments:
 - Corporate
 - Home Office
 
-![Superstore Sales Dashboard]()
+![Superstore Sales Dashboard](https://github.com/MuhammadFurqanMohsin25Apr/Superstore_Sales/blob/main/Dashboard4.png)
 ### 🌎 Sales By Market
 Pie chart illustrating sales distribution by market:
 - APAC (28.36%)
